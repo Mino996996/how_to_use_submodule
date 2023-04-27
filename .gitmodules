@@ -1,0 +1,3 @@
+[submodule "rust-lesson"]
+	path = rust-lesson
+	url = https://github.com/Mino996996/rust-lesson.git
